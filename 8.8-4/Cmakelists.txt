@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.10)
+project(the_forth)
+add_executable(the_forth main.c)
